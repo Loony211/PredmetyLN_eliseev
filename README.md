@@ -10,3 +10,6 @@ https://docs.google.com/document/d/1URm9x4TCR3_HDEC2RlF8Hxmdc7ksKwj4Hs7N6f_WZ7o/
 #ссылка на файл с работами(практические/тесты и т.д)
 
 https://docs.google.com/document/d/1d6gGWea97nKSDp2xqEas_v-q4hXFkzkDnWIHAOEpheo/edit?usp=sharing
+
+#презентация тела вращения вокруг нас 
+https://docs.google.com/presentation/d/1VOGdYVVg7ED0S4ggrrTiFzDes7Nx1DIE/edit?usp=sharing&ouid=101743919987561321728&rtpof=true&sd=true
